@@ -1,2 +1,3 @@
 # ws-xenon
-Sample CRUD Service Using Xenon
+This is a sample CRUD Service Using [Xenon](https://github.com/vmware/xenon). 
+
